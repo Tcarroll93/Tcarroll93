@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tcarroll93
+- 👋 Hi, I’m Taylor! 
 - 🌱 I’m currently learning HTML, CSS and JS.
 
 
